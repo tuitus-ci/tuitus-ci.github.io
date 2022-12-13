@@ -1,0 +1,29 @@
+[
+  {
+    "title": "CB-Geo MPM",
+    "description": "Material Point Method.",
+    "image": {
+      "url": "images/features/CB-Geo-MPM.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Geoelements GNS",
+    "description": "Graph Network Simulator",
+    "image": {
+      "url": "images/features/gns.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "OpenSees",
+    "description": "OpenSees",
+    "image": {
+      "url": "images/features/opensees.png",
+      "width": 80,
+      "height": 80
+    }
+  }
+]
