@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Meet The Team
+# Meet the Steering Committee
 
 Our team of qualified NHE Researchers and CI professionals.
