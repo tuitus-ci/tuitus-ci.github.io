@@ -8,6 +8,9 @@ main:
   - name: "About"
     url: "/about/"
     weight: 4
+  - name: "Mission"
+    url: "/mission/"
+    weight: 5
   
 footer:
   - name: "Home"
@@ -16,3 +19,6 @@ footer:
   - name: "Contact"
     url: "/contact/"
     weight: 2
+  - name: "Code of Conduct"
+    url: "/code-of-conduct/"
+    weight: 3
