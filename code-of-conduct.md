@@ -6,8 +6,6 @@ permalink: "/code-of-conduct/"
 weight: 7
 ---
 
-Code of Conduct
-
 ![Code of conduct](/images/code1.jpg)
 
 # Contributor Covenant Code of Conduct
