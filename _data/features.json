@@ -21,7 +21,25 @@
     "title": "OpenSees",
     "description": "OpenSees",
     "image": {
-      "url": "images/features/opensees.png",
+      "url": "images/features/opensees.jpg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "ADCIRC",
+    "description": "ADCIRC",
+    "image": {
+      "url": "images/features/adcirc.jpg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "NGL",
+    "description": "Next Generation Liqeufaction Dataset",
+    "image": {
+      "url": "images/features/ngl.png",
       "width": 80,
       "height": 80
     }
