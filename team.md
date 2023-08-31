@@ -7,8 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Org chart
-
 Tuitus org-chart with organizational governance (the Board and members) and technical governance (Project Management and Committees). In Phase 1, Tuitus includes the five NHE software and Tapis. The members and contributors of these codebases will nominate and vote for the members of the Governing Board of Directors. The Board of Directors will meet monthly to define administrative and technical policies. The Board delegates the technical direction of each project to its Project Management Committee. The Board will also create four committees: Infrastructure, Legal, Security, and Outreach & Education committees responsible for developing overarching policies and guidelines and overseeing day-to-day operations. The Board will be accountable for defining operating guidelines that define the organization's structure and constitution. The Board will be responsible for electing new members (projects). Tuitus will continually evaluate the functioning of the Board and adapt its structure and operating guidelines by attending NSF OSE training. The Board will explore potential industry collaborations and sponsorship agreements to sustain the long-term operational model for Tuitus.
 
 ![Org chart](/images/org-chart.png)
