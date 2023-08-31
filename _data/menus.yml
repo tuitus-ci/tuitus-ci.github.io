@@ -1,16 +1,17 @@
 main:
+  - name: "About"
+    url: "/about/"
+    weight: 1
   - name: "Team"
     url: "/team/"
     weight: 2
-  - name: "Code of Conduct"
-    url: "/code-of-conduct/"
-    weight: 3
-  - name: "About"
-    url: "/about/"
-    weight: 4
   - name: "Mission"
     url: "/mission/"
-    weight: 5
+    weight: 3
+  - name: "Code of Conduct"
+    url: "/code-of-conduct/"
+    weight: 4
+
   - name: "Outreach"
     url: "/outreach/"
     weight: 6
