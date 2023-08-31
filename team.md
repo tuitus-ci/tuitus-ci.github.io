@@ -1,6 +1,6 @@
 ---
 title: Organization
-layout: teams
+layout: page
 description: organization
 permalink: "/team/"
 intro_image_absolute: true
