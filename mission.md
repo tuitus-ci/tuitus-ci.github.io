@@ -1,6 +1,6 @@
 ---
 title: Mission
-layout: default
+layout: page
 description: Mission
 permalink: "/mission/"
 intro_image_absolute: true
