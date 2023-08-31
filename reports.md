@@ -16,3 +16,5 @@ bodyClass: page-about
 ## Publications
 
   * [PEARC 2023: Detailed Functional Overview of an API and Workflow Engine for Scientific Research Computing](/files/publications/2023-pearc-ci.pdf)
+
+  * [PEARC 2023: CI/CD Tutorial](/files/publications/2023-pearc-tutorial.pdf)
