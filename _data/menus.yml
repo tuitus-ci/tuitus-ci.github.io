@@ -11,7 +11,10 @@ main:
   - name: "Mission"
     url: "/mission/"
     weight: 5
-  
+  - name: "Outreach"
+    url: "/outreach/"
+    weight: 6
+
 footer:
   - name: "Home"
     url: "/"
