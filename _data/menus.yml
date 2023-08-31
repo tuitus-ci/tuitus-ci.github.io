@@ -11,7 +11,9 @@ main:
   - name: "Code of Conduct"
     url: "/code-of-conduct/"
     weight: 4
-
+  - name: "Meetings and Reports"
+    url: "/reports/"
+    weight: 5
   - name: "Outreach"
     url: "/outreach/"
     weight: 6
